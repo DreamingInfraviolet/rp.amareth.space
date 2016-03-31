@@ -1,0 +1,13 @@
+Mods interested in:
+http://fluxbb.org/resources/mods/easy-avatar/
+Mods installed:
+
+http://fluxbb.org/resources/mods/default-avatar/
+http://fluxbb.org/resources/mods/ajax-quick-post/
+http://fluxbb.org/resources/mods/custom-bbcode/
+http://fluxbb.org/resources/mods/colorize-groups/
+http://fluxbb.org/resources/mods/ajax-post-edit/
+http://fluxbb.org/resources/mods/anti-spam-mod/
+http://fluxbb.org/resources/mods/bad-behavior-integration-for-fluxbb/
+http://fluxbb.org/resources/mods/brute-force-protection-of-the-login-system/
+http://fluxbb.org/resources/mods/another-private-messaging-system/
