@@ -1,28 +1,9 @@
-# FluxBB 1.5 Readme
+# rp.amareth.space
 
 ## About
 
-FluxBB is an open source forum application released under the GNU General Public
-Licence. It is free to download and use and will remain so. FluxBB was conceived and
-designed to be fast and light with less of the "not so essential" features that some
-of the other forums have whilst not sacrificing essential functionality or usability.
-
-## Requirements
-
-* A webserver
-* PHP 4.4.0 or later
-* A database such as MySQL 4.1.2 or later, PostgreSQL 7.0 or later, or SQLite 2
-
-## Recommendations
-
-* Make use of a PHP accelerator such as APC or XCache
-* Make sure PHP has the zlib module installed to allow FluxBB to gzip output
-
-## Links
-
-* Homepage: http://fluxbb.org
-* Documentation: http://fluxbb.org/docs/v1.5
-* Community: http://fluxbb.org/forums/
-* Resources: http://fluxbb.org/resources/
-* IRC: irc://irc.freenode.net/fluxbb
-* Development: http://github.com/fluxbb/fluxbb
+This is currently a work-in-progress website based on FluxBB where the purpose is to
+provide a fun environment for people to start and engage in roleplays with their friends ^_^
+In addition to providing a forum, it will provide a mechanic for starting roleplays,
+inviting people, managing permissions and more! In the future it will have support for more
+high-level things, such as keeping track of characters and maybe even locations.
